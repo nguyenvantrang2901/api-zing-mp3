@@ -1,5 +1,5 @@
 ### API version local
 
-- Clone về
-- Mở project
-- npm start
+- Clone project in github
+- Open Project in VSCode
+- start: npm start
